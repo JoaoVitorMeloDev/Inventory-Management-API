@@ -343,13 +343,19 @@ Deploy em nuvem com:
 
 ---
 
-# 📷 Screenshots
+## 📷 Screenshots
 
-Adicionar prints de:
+### Swagger UI
 
-* Swagger rodando
-* endpoints funcionando
-* containers docker ativos
+![Swagger](screenshots/swagger-ui.png)
+
+### Docker Containers
+
+![Docker](screenshots/docker-containers.png)
+
+### API Endpoint Test
+
+![POST Product](screenshots/post-product.png)
 
 ---
 
