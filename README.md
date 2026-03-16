@@ -347,11 +347,11 @@ Deploy em nuvem com:
 
 ### Swagger UI
 
-![Dashboard](https://github.com/JoaoVitorMeloDev/Inventory-Management-API/blob/main/inventory-saas/screenshots/docker-containers.png?raw=true)
+![Swagger]https://raw.githubusercontent.com/JoaoVitorMeloDev/Inventory-Management-API/refs/heads/main/inventory-saas/screenshots/post-product.png
 
 ### Docker Containers
 
-![Docker](screenshots/docker-containers.png)
+![Docker](https://github.com/JoaoVitorMeloDev/Inventory-Management-API/blob/main/inventory-saas/screenshots/docker-containers.png?raw=true)
 
 ### API Endpoint Test
 
